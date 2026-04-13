@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rodrigo Sánchez 👋
+# ¡Hola! Soy Rodrigo Sanchez Chumpitaz 👋
 
 ### Estudiante de Ingeniería de Sistemas (7mo Ciclo) | Aspirante a Data Engineer 🇵🇪
 
