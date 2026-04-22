@@ -1,50 +1,72 @@
-# ¡Hola! Soy Rodrigo Sanchez Chumpitaz 👋
+# Hola, soy Rodrigo Sanchez Chumpitaz 👋
 
-### Estudiante de Ingeniería de Sistemas (7mo Ciclo) | Aspirante a Data Engineer 🇵🇪
+### Data Engineer en Formación &nbsp;|&nbsp; Python · SQL · ETL &nbsp;|&nbsp; Lima, Perú 🇵🇪
 
-Soy un profesional con formación técnica y actualmente cursando el **séptimo ciclo de Ingeniería de Sistemas en la UTP**. Mi enfoque está en la arquitectura de datos, automatización de procesos y la construcción de pipelines robustos. 
-
-Vengo de una formación técnica sólida, lo que me permite combinar la visión teórica de la ingeniería con una capacidad de ejecución práctica e inmediata.
+Técnico titulado en Desarrollo de Software e Ingeniero de Sistemas (7mo ciclo, UTP) con experiencia laboral real en SQL avanzado y backend. Construyo pipelines ETL con Python, Pandas y PostgreSQL procesando millones de registros con validaciones de calidad automatizadas.
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de 7mo ciclo en la **UTP** (Convalidación de carrera técnica).
-- 🛠️ Técnico Titulado con experiencia en proyectos de infraestructura y commissioning.
-- 🐍 Especializándome en el ecosistema de datos con **Python**, **Pandas**, **SQL** y **SQLAlchemy**.
-- 🌍 Meta 2026: Certificación de inglés y despliegue de pipelines en la nube.
+- 🎓 Ingeniero de Sistemas en formación — 7mo ciclo en la **UTP** (convalidación de carrera técnica)
+- 💼 Experiencia laboral en SQL avanzado, desarrollo backend con Java y análisis de datos operativos
+- 🛠️ Construí un pipeline ETL end-to-end que procesa **3,066,766 registros** con **16 checks de calidad automatizados**
+- 📍 Buscando practicantía o rol junior en Data Engineering / Analytics en Lima
+- 🚀 Próximos pasos: **Docker · AWS · dbt**
 
-## 🛠️ Tech Stack
+---
 
-### Data Engineering & Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## Tech Stack
 
-### Visualización y Análisis
+### Data Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-white?style=for-the-badge&logo=apache&logoColor=black)
+
+### Bases de Datos & SQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### BI & Visualización
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
----
-
-## 📂 Proyectos Destacados
-
-### [NYC Taxi ETL Pipeline 🚕](https://github.com/rodrigo-sanchez-data/nyc-taxi-etl)
-Pipeline ETL profesional que procesa datos reales de viajes de taxis en Nueva York.
-- **Transformación:** Lógica avanzada con Pandas para limpieza y enriquecimiento de datos.
-- **Arquitectura:** Código modular basado en principios de ingeniería de software (`src/` pattern).
-- **Escalabilidad:** Implementación de logs y manejo de variables de entorno para entornos de producción.
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Intereses y Aprendizaje
-- **Data Engineering:** Aprendiendo Apache Airflow y Spark para orquestación y procesamiento masivo.
+## Proyectos
+
+### [NYC Yellow Taxi — Pipeline ETL 🚕](https://github.com/rodrigo-sanchez-data/nyc-taxi-etl)
+
+Pipeline ETL end-to-end que procesa **3,066,766 registros** del dataset público de NYC TLC con una reducción del **4.12%** tras limpieza y validación.
+
+| | |
+|---|---|
+| **Datos** | 3,066,766 registros · reducción 4.12% · 16 checks de calidad |
+| **Transform** | 12 etapas: limpieza, imputación, reglas de negocio, feature engineering |
+| **Carga** | PostgreSQL + Parquet con compresión Snappy |
+| **Arquitectura** | Modular con logging estructurado y manejo de errores por etapa |
+| **Stack** | Python · Pandas · SQLAlchemy · PyArrow · PostgreSQL |
 
 ---
 
-## 📫 Contacto
-- **LinkedIn:** https://www.linkedin.com/in/rodrigo-sanchez-chumpitaz-17b391304/
-- **Email:** rodrigosanchez.8121@gmail.com
+## Certificados
+
+- 🏅 **Google Data Analytics Professional Certificate** — Google / Coursera (Jun 2025)
+- 🏅 **Microsoft Power BI Data Analyst Associate** — Microsoft (Sep 2025)
+- 📄 SQL para Análisis de Datos — UNI (Jul 2025)
+- 📄 Python para Análisis de Datos — UNI (Jul 2025)
+- 📄 SQL Server: Programación Avanzada — Udemy (Oct 2023)
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sanchez-chumpitaz-17b391304/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigosanchez.8121@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigo-sanchez-data)
